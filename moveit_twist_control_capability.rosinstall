@@ -1,0 +1,1 @@
+- git: {local-name: src/moveit_twist_control_capability, uri: 'https://github.com/skohlbr/moveit_twist_control_capability.git', version: master}
