@@ -1,0 +1,9 @@
+<library path="libmoveit_move_group_default_capabilities">
+
+  <class name="move_group/MoveGroupTwistControl" type="move_group::MoveGroupTwistControl" base_class_type="move_group::MoveGroupCapability">
+    <description>
+      Computing cartesian motions based on Twist commands
+    </description>
+  </class>
+
+</library>
